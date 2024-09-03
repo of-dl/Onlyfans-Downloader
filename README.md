@@ -1,23 +1,23 @@
 <div align="center" style="font-size: smaller;">
-    <h1>👋 Best Onlyfans Downloader</h1>
-    <h2>👋 Stable, Easy-to-use & Fast</h2>
+    <h1>👋 Ultimate Onlyfans Downloader</h1>
+    <h2>👋 Reliable, User-Friendly & Quick</h2>
 </div>
 
 ![Onlyfans Downloader UI Banner](https://hlsdownloader.com/wp-content/uploads/2023/03/1280-1024x640.png)
 
-Onlyfans Downloader is the latest innovative tool designed for efficient and easy downloading of content from Onlyfans.
+The Onlyfans Downloader is a cutting-edge tool crafted for seamless and efficient downloading of content from Onlyfans.
 
 ## ✨ Features
 
 <table>
   <tr>
     <td align="middle" colspan="3">
-      Whether functionality you're looking for, Onlyfans Downloader has it all:
+      Regardless of what features you need, the Onlyfans Downloader has it all:
     </td>
   </tr>
   <tr>
     <td align="middle" nowrap>
-      <strong>📥 Download Modes</strong>
+      <strong>📥 Download Options</strong>
       <hr>
       <ul align="left">
         <li>Bulk: Timeline, Messages</li>
@@ -25,104 +25,96 @@ Onlyfans Downloader is the latest innovative tool designed for efficient and eas
       </ul>
     </td>
     <td align="middle" nowrap>
-      <strong>♻️ Updates</strong>
+      <strong>♻️ Automatic Updates</strong>
       <hr>
       <ul align="left">
-        <li>Easily update prior download folders</li>
-        <li>App keeps itself up-to-date with fansly</li>
+        <li>Effortlessly update previous download folders</li>
+        <li>The app keeps itself current with fansly</li>
       </ul>
     </td>
     <td align="middle" nowrap>
-      <strong>🖥️ Cross-Platform Compatibility</strong>
+      <strong>🖥️ Multi-Platform Support</strong>
       <hr>
       <ul align="left">
-        <li>Compatible with Windows, Linux & MacOS</li>
-        <li>Executable app only ships for Windows</li>
+        <li>Works on Windows, Linux & MacOS</li>
+        <li>Executable app is available only for Windows</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td align="middle" nowrap>
-      <strong>⚙️ Customizability</strong>
+      <strong>⚙️ Customization</strong>
       <hr>
       <ul align="left">
-        <li>Separate media into sub-folders?</li>
-        <li>Want to download previews?</li>
+        <li>Organize media into sub-folders?</li>
+        <li>Interested in downloading previews?</li>
       </ul>
     </td>
     <td align="middle" nowrap>
-      <strong>🔎 Deduplication</strong>
+      <strong>🔎 Content Deduplication</strong>
       <hr>
       <ul align="left">
-        <li>Downloads only unique content</li>
-        <li>resulting in less bandwidth usage</li>
+        <li>Downloads only distinct content</li>
+        <li>Minimizing bandwidth usage</li>
       </ul>
     </td>
     <td align="middle" nowrap>
-      <strong>💸 Base Charge</strong>
+      <strong>💸 No Hidden Fees</strong>
       <hr>
       <ul align="left">
-        <li>You don't need to worry it doesn't work now</li>
-        <li>Development based on popularity</li>
+        <li>No need to worry about functionality issues</li>
+        <li>Development is driven by user popularity</li>
       </ul>
     </td>
   </tr>
 </table>
 
 ## Downloader for onlyfans.com
-🟢 This is a Google Chrome extension that adds download buttons to fansly feed and image gallerys. It can download images, animated images (gifs), audio and videos. 
-🔴 I don't know if downloading for private use is allowed, so use it at your own responsibility. But obviously you are not allowed to reproduce, publish, or distribute any content downloaded. Please do not do this.
+🟢 This is a Google Chrome extension that integrates download buttons into fansly feeds and image galleries. It allows you to download images, GIFs, audio, and videos.  
+🔴 Please note that downloading for personal use is at your own discretion. Reproducing, publishing, or distributing downloaded content is prohibited.
 
-## 🚀 Installation
+## 🚀 Installation Guide
 
 ### Manual Installation
-* <a href="https://github.com/mediadown/Onlyfans-Downloader/releases/latest" target="_blank">Download the extension</a> and unzip it to a folder.
-* Then go to the extension page manually or with url **chrome://extensions/** and turn on Developer Mode in the top right corner. In the new menu select "Load unpacked" and select the folder with the unzipped files.
-* Follow this link step to step.[How to Install Onlyfans Downloader Chrome Manually](https://hlsdownloader.com/how-to-manually-install-onlyfans-downloader/)
-### Webstore
-* 🔴 EXTENSION GOT REMOVED FROM WEBSTORE "This functionality is not allowed per Chrome Web Store policies." 🔴
+* <a href="https://github.com/mediadown/Onlyfans-Downloader/releases/latest" target="_blank">Download the extension</a> and extract it to a chosen directory.
+* Open the extension page by navigating to **chrome://extensions/** and enable Developer Mode in the top-right corner. Click "Load unpacked" and select the folder containing the extracted files.
+* For detailed steps, refer to [How to Install Onlyfans Downloader Chrome Manually](https://hlsdownloader.com/how-to-manually-install-onlyfans-downloader/).
 
-## Notice:
-* You need to be followed/subscribed to the fansly.com creator.
-* No paywall is bypassed.
-* No unauthorized access or download is encouraged, facilitated or enabled.
+### Webstore Note
+* 🔴 THIS EXTENSION HAS BEEN REMOVED FROM THE WEBSTORE: "This functionality is not allowed per Chrome Web Store policies." 🔴
 
-## 🤔 FAQ
-Do you have any unanswered questions or want to know more about Onlyfans Downloader? Head over to the [Website](https://github.com/mediadown/Onlyfans-Downloader/wiki) or check if your topic was mentioned in [Discussions](https://github.com/mediadown/Onlyfans-Downloader/discussions) or [Issues](https://github.com/mediadown/Onlyfans-Downloader/issues)
+## Important Notice:
+* You must be subscribed to the fansly.com creator.
+* No paywalls are bypassed.
+* Unauthorized access or downloads are not supported or encouraged.
+
+## 🤔 Frequently Asked Questions
+If you have any questions or need more information about the Onlyfans Downloader, visit our [Website](https://github.com/mediadown/Onlyfans-Downloader/wiki) or check relevant topics in [Discussions](https://github.com/mediadown/Onlyfans-Downloader/discussions) or [Issues](https://github.com/mediadown/Onlyfans-Downloader/issues).
 
 + **Q**: Can I Download Content from OnlyFans?
-**A**: Yes, you can download videos and photos from OnlyFans.You will need an OnlyFans account to do this.
+**A**: Yes, you can download videos and photos from OnlyFans, provided you have an OnlyFans account.
 
-+ **Q**: Is OnlyFans Going to Know if You Have Downloaded a Video?
-**A**: No, it isn’t going to send a notification to the person who uploaded the content that their content is being downloaded.
++ **Q**: Will OnlyFans Notify the Creator if I Download Their Video?
+**A**: No, there will be no notifications sent to the content creator when their content is downloaded.
 
-+ **Q**: Is It Legal to Download Content from OnlyFans?
-**A**: The good news is that as long as you are paying a subscription on OnlyFans, then it’s legal to download the content that you view.
-**A**: Because you are paying to view the content, then it makes sense that it is yours to do with what you will, and you can download it without worrying about legal repercussions.
-**A**: Just make sure that you’re not trying to hack into someone’s OnlyFans account where you don’t have a subscription.
++ **Q**: Is Downloading Content from OnlyFans Legal?
+**A**: Yes, as long as you have a subscription, it's legal to download content you have access to. Just avoid trying to hack into accounts you do not subscribe to.
 
-+ **Q**: Can I Screenshot OnlyFans?
-**A**: Yes, you can screenshot OnlyFans, because this is legal, and you don’t have to worry about your account being suspended.
-This is because you have already paid for the OnlyFans content.
++ **Q**: Can I Screenshot OnlyFans Content?
+**A**: Yes, taking screenshots is allowed since you have paid for the content.
 
-+ **Q**: Get signed out of OF when I use this extension ?
-**A**: Yes, our customers feedback if more downloads in a day will also appear this situation, such as greater than 60G pictures and videos will appear this situation.
-**A**: Suggest:
-**A**: 1 Do not download too many videos a day. (Within 50G, each account is a little different)
-**A**: 2 wait until tomorrow to religion onlyfans, re-open the extension to download.
-**A**: Many of our users have tried and it does not affect the account, and welcome your feedback.
++ **Q**: Will I Get Signed Out of OnlyFans When Using This Extension?
+**A**: Yes, some users report being signed out after extensive downloads (e.g., over 60GB). It’s recommended to limit downloads to under 50GB per day and wait until the next day before trying again.
 
-
-If you still need help with something open up a [New Discussion](https://github.com/mediadown/Onlyfans-Downloader/discussions/new/choose), instead of a issue ticket, as that is super annoying and it'll only get you banned from interacting entirely with the repository. Issue tickets are reserved for reporting genuine or suspected bugs in the codebase of the Downloader, which require immediate attention from the maintainers.
+For further assistance, please open a [New Discussion](https://github.com/mediadown/Onlyfans-Downloader/discussions/new/choose) instead of an issue ticket. Issue tickets should be reserved for genuine bugs in the codebase.
 
 ## 🤝 Contributing to `Onlyfans Downloader`
-Any kind of positive contribution is welcome! Please help the project improve by [opening a pull request](https://github.com/mediadown/Onlyfans-Downloader/pulls) with your suggested changes!
+We welcome all positive contributions! Please improve the project by [submitting a pull request](https://github.com/mediadown/Onlyfans-Downloader/pulls) with your suggestions.
 
+## 🙏 Support Us
++ Please star this project (⭐️) to support ongoing development.
 
-## 🙏 Support
-+ Please give this project a star(⭐️) to encourage further development
-
-+ Maximise your support for Onlyfans Downloader by recommending it to others online 🌍
++ Maximize your support for the Onlyfans Downloader by sharing it with others online 🌍.
 
 ## Disclaimer
-OnlyFans is a registered trademark of Fenix International Ltd. This Chrome extension isn't affiliated with, sponsored by, or endorsed by Fenix International Ltd.
+OnlyFans is a registered trademark of Fenix International Ltd. This Chrome extension is not affiliated with, sponsored by, or endorsed by Fenix International Ltd.

@@ -3,7 +3,7 @@
     <h2>🌟 Reliable, User-Friendly & Quick</h2>
 </div>
 
-![Onlyfans Downloader UI Banner](https://hlsdownloader.com/wp-content/uploads/2023/03/1280-1024x640.png)
+![Onlyfans Downloader UI Banner](https://pub-6f94f4b4cdeb4b63b682e942191aff9e.r2.dev/onlyfans.webp)
 
 The Onlyfans Downloader is a cutting-edge tool crafted for seamless and efficient downloading of content from Onlyfans.
 
@@ -12,7 +12,7 @@ The Onlyfans Downloader is a cutting-edge tool crafted for seamless and efficien
 ### Manual Installation
 * <a href="https://github.com/mediadown/Onlyfans-Downloader/releases/latest" target="_blank">Download the extension</a> and extract it to a chosen directory.
 * Open the extension page by navigating to **chrome://extensions/** and enable Developer Mode in the top-right corner. Click "Load unpacked" and select the folder containing the extracted files.
-* For detailed steps, refer to [How to Install Onlyfans Downloader Chrome Manually](https://hlsdownloader.com/how-to-manually-install-onlyfans-downloader/).
+* For detailed steps, refer to [How to Install Onlyfans Downloader Chrome Manually](https://www.hotfansdownload.com/blog/onlyfans_download).
 
 ### Webstore Note
 * ❌ THIS EXTENSION HAS BEEN REMOVED FROM THE WEBSTORE: "This functionality is not allowed per Chrome Web Store policies." ❌
@@ -89,7 +89,7 @@ Please note that downloading for personal use is at your own discretion. Reprodu
 * Unauthorized access or downloads are not supported or encouraged.
 
 ## Frequently Asked Questions
-If you have any questions or need more information about the Onlyfans Downloader, visit our [Website](https://github.com/mediadown/Onlyfans-Downloader/wiki) or check relevant topics in [Discussions](https://github.com/mediadown/Onlyfans-Downloader/discussions) or [Issues](https://github.com/mediadown/Onlyfans-Downloader/issues).
+If you have any questions or need more information about the Onlyfans Downloader, visit our [Website](https://github.com/of-dl/Onlyfans-Downloader/wiki) or check relevant topics in [Discussions](https://github.com/of-dl/Onlyfans-Downloader/discussions) or [Issues](https://github.com/of-dl/Onlyfans-Downloader/issues).
 
 + **Q**: Can I Download Content from OnlyFans?  
 **A**: Yes, you can download videos and photos from OnlyFans, provided you have an OnlyFans account.
@@ -106,10 +106,10 @@ If you have any questions or need more information about the Onlyfans Downloader
 + **Q**: Will I Get Signed Out of OnlyFans When Using This Extension?  
 **A**: Yes, some users report being signed out after extensive downloads (e.g., over 60GB). It’s recommended to limit downloads to under 50GB per day and wait until the next day before trying again.
 
-For further assistance, please open a [New Discussion](https://github.com/mediadown/Onlyfans-Downloader/discussions/new/choose) instead of an issue ticket. Issue tickets should be reserved for genuine bugs in the codebase.
+For further assistance, please open a [New Discussion](https://github.com/of-dl/Onlyfans-Downloader/discussions/new/choose) instead of an issue ticket. Issue tickets should be reserved for genuine bugs in the codebase.
 
 ## Contributing to `Onlyfans Downloader`
-We welcome all positive contributions! Please improve the project by [submitting a pull request](https://github.com/mediadown/Onlyfans-Downloader/pulls) with your suggestions.
+We welcome all positive contributions! Please improve the project by [submitting a pull request](https://github.com/of-dl/Onlyfans-Downloader/pulls) with your suggestions.
 
 ## Support Us
 + Please star this project (⭐️) to support ongoing development.

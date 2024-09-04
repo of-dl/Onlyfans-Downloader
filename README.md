@@ -10,7 +10,7 @@ The Onlyfans Downloader is a cutting-edge tool crafted for seamless and efficien
 ## 🚀 Installation Guide
 
 ### Manual Installation
-* <a href="https://github.com/mediadown/Onlyfans-Downloader/releases/latest" target="_blank">Download the extension</a> and extract it to a chosen directory.
+* <a href="https://github.com/of-dl/Onlyfans-Downloader/releases/latest" target="_blank">Download the extension</a> and extract it to a chosen directory.
 * Open the extension page by navigating to **chrome://extensions/** and enable Developer Mode in the top-right corner. Click "Load unpacked" and select the folder containing the extracted files.
 * For detailed steps, refer to [How to Install Onlyfans Downloader Chrome Manually](https://www.hotfansdownload.com/blog/onlyfans_download).
 
